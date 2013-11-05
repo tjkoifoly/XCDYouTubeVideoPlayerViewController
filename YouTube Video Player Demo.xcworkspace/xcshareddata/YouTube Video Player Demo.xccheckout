@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55C55A8E-FBD2-4A6B-866C-7FDFDFAFBA0F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YouTube Video Player Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E59AFB74-158D-471F-B5D4-E22599D9695F</key>
+		<string>https://github.com/tjkoifoly/XCDYouTubeVideoPlayerViewController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YouTube Video Player Demo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E59AFB74-158D-471F-B5D4-E22599D9695F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tjkoifoly/XCDYouTubeVideoPlayerViewController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E59AFB74-158D-471F-B5D4-E22599D9695F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E59AFB74-158D-471F-B5D4-E22599D9695F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XCDYouTubeVideoPlayerViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
